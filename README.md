@@ -11,4 +11,5 @@ This Dashboard contains valuable insights such as :
 - The target customers based on their age bracket.
 - And the sales based on the customer's commute distance.
 
+![image](https://github.com/sivaji-palagiri/Bike-sale-dashboard-in-excel/assets/134676821/6e892ae8-f09d-4a30-8476-0b4a955639f1)
 
